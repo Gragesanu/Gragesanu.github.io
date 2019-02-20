@@ -1,6 +1,6 @@
-body{background-color:#d9ffb3}
+body{background-color:black}
 h1{border-style: solid;color: red}
-p{font-family: Times New Roman;color:black;font-size: 18px}
+p{font-family: Times New Roman;color:white;font-size: 18px}
 h2{border-style: double;color: red;font-family: Algerian;}
 .text_content{text-indent: 60px;text-align: justify;
 			border-style: dotted; border-color: red}
